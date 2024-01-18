@@ -1,8 +1,9 @@
 # DCC Mounting Tab Repair
 ## 3000GT / Stealth / GTO Digital Climate Control 
 
-![Top Tab Repair](/docs/3s_dcc_top_tab_repair_post.jpg)
-![Side Tab Repair](/docs/3s_dcc_side_tab_repair_post.jpg)
+Top Tab             |  Side Tab
+:-------------------------:|:-------------------------:
+![Top Tab Repair](/docs/3s_dcc_top_tab_repair_post.jpg)  |  ![Side Tab Repair](/docs/3s_dcc_side_tab_repair_post.jpg)
 
 **Not For Commercial Use by Third Parties - See License**
 
