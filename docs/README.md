@@ -11,7 +11,7 @@ Repair the digital climate control (DCC) mounting tabs for your Mitsubishi 3000G
 
 Holes are included in the design for 6#-32 countersunk PC screws, which allow for a structural anchor to the housing, while the adhesive serves to prevent any subtle rotation.
 
-If you do not have the means to print or install these yourself, we offer installation as part of our (DCC Rebuild Service)[https://3shub.com/store/services/electronics/dcc-rebuild/] at 3000GT/Stealth Hub. 
+If you do not have the means to print or install these yourself, we offer installation as part of our [DCC Rebuild Service](https://3shub.com/store/services/electronics/dcc-rebuild/) at 3000GT/Stealth Hub. 
 
 ### Recommended Print Settings
 
@@ -25,7 +25,7 @@ A minimum of PETG is recommended to minimize the chance of heat warping when ins
 
 The 6#-32 screws are [commonly available in black](https://www.amazon.ca/dp/B01MSKQ1HH), [a properly sized drill bit and tap are recommended](https://www.amazon.ca/gp/product/B0006V6MNW). The screws can be omitted and the holes filled with the adhesive of your choice should you prefer. 
 
-(Black plastic bonder)[https://www.amazon.ca/Weld-50139-Plastic-Adhesive-Syringe/dp/B01IBOK7FE] is also highly recommended, although any temperature-safe adhesive can be used as the primary anchor. 
+[Black plastic bonder](https://www.amazon.ca/Weld-50139-Plastic-Adhesive-Syringe/dp/B01IBOK7FE) is also highly recommended, although any temperature-safe adhesive can be used as the primary anchor. 
 
 If you are missing any screw clips, they can be ordered [from AliExpress](https://www.aliexpress.com/item/1005005230970314.html), or in a [kit from Amazon](https://www.amazon.ca/gp/product/B07Z17SHQB/).
 
